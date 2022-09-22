@@ -1,0 +1,9 @@
+D:\student\6404\TP\Keyboard\1\bin\Debug\Keyboard.exe.config
+D:\student\6404\TP\Keyboard\1\bin\Debug\Keyboard.exe
+D:\student\6404\TP\Keyboard\1\bin\Debug\Keyboard.pdb
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.csproj.AssemblyReference.cache
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.Properties.Resources.resources
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.csproj.GenerateResource.cache
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.exe
+D:\student\6404\TP\Keyboard\1\obj\Debug\Keyboard.pdb
